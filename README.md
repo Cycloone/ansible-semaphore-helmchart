@@ -1,2 +1,2 @@
-# helmcharts
-This is repo for my custom helmcharts
+# ansible-semaphore-helmchart
+This is repo for ansible-semaphore helmchart
