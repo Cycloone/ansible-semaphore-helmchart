@@ -3,12 +3,12 @@ entries:
   ansible-semaphore:
   - apiVersion: v2
     appVersion: v2.8.53
-    created: "2022-03-25T09:34:46.793303714+03:00"
+    created: "2022-03-28T10:23:17.061561674+03:00"
     description: A Helm chart for ansible-semaphore
-    digest: 80b8148ad9f34a4d63b2172795f8d00e57829ca22a5fb24e0a523bab58eefec2
+    digest: e9f3c51cbb0cebb1a04bdf114b6a39de076f4f244ce260bdf235cda4e5c35e67
     name: ansible-semaphore
     type: application
     urls:
     - ansible-semaphore-0.1.0.tgz
     version: 0.1.0
-generated: "2022-03-25T09:34:46.792202444+03:00"
+generated: "2022-03-28T10:23:17.060135434+03:00"
